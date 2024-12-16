@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219026295786",
+    "project_id": "bibi-80bb0",
+    "storage_bucket": "bibi-80bb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219026295786:android:4bd4959d38fb98d7964093",
+        "android_client_info": {
+          "package_name": "com.example.mobparasha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8PJCGr9Q2wXmviEogoUa2y12fppgYFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
